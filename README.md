@@ -1,3 +1,5 @@
+![Alt text](https://example.com/path/to/image.png)
+
 ### **Introduction to Python**
 
 Python is a versatile, high-level programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python emphasizes code readability, allowing developers to write clear, logical code for both small and large-scale projects. 
