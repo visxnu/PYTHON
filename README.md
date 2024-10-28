@@ -1,4 +1,3 @@
-![Alt text]([https://example.com/path/to/image.png](https://github.com/visxnu/PYTHON/blob/main/PYTHON.png))
 
 ### **Introduction to Python**
 
